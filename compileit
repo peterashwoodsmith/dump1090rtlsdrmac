@@ -1,0 +1,3 @@
+cd /Users/peterashwood-smith/Desktop/Arduino/gliderOpsHelper/dump1090sdr
+cc -framework CoreFoundation -framework IOKit -framework Security *.c
+
